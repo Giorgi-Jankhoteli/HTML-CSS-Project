@@ -124,7 +124,7 @@ ul a {
   color: #5c5c5c;
 }
 
-.hero-text > button {
+.hero-text > a > button {
   padding: 16px 60px;
   background-color: #e6897c;
   color: white;
@@ -135,7 +135,7 @@ ul a {
   transition: 0.5s;
 }
 
-.hero-text > button:hover {
+.hero-text > a > button:hover {
   border: 1px solid #e6897c;
   background-color: transparent;
   color: #e6897c;
@@ -161,8 +161,8 @@ ul a {
   font-weight: 600;
 }
 
-.main-products > button {
-  padding: 20px 60px;
+.main-products > a > button {
+  padding: 25px 122px;
   background-color: #e6897c;
   color: white;
   border: none;
@@ -174,7 +174,7 @@ ul a {
   max-width: 385px;
 }
 
-.main-products > button:hover {
+.main-products > a > button:hover {
   border: 1px solid #e6897c;
   background-color: transparent;
   color: #e6897c;
@@ -261,7 +261,7 @@ ul a {
   color: #5c5c5c;
 }
 
-.color-text > button {
+.color-text > a > button {
   padding: 16px 60px;
   background-color: #e6897c;
   color: white;
@@ -272,7 +272,7 @@ ul a {
   transition: 0.5s;
 }
 
-.color-text > button:hover {
+.color-text > a > button:hover {
   border: 1px solid #e6897c;
   background-color: transparent;
   color: #e6897c;
